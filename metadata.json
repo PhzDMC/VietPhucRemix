@@ -1,0 +1,6 @@
+{
+  "name": "Cổ Nhân Stylist",
+  "description": "AI Fashion Consultant & Co-pilot giúp Gen Z phối Việt phục với trang phục hiện đại có sẵn trong tủ đồ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
